@@ -1,6 +1,6 @@
 70 sloc)  4.62 KB
 <?php
-class bank_model extends CI_Model
+<!--class bank_model extends CI_Model-->
 {	
 	public function __construct()
     {
